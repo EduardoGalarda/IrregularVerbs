@@ -1,0 +1,379 @@
+[
+    {
+        "id": 0,
+        "title_infinitivo": "Base Form / Infinitive:",
+        "titlesimple_past": "Simple Past:",
+        "title_past_participle": "Past Participle:",
+        "translate": "Translate",
+        "infinitive": "Infinitive",
+        "simple_past": "Simple Past",
+        "past_participle": "Past Participle",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 1,
+        "infinitive": "be",
+        "simple_past": "was / were",
+        "past_participle": "been",
+        "translate": "ser / estar",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 2,
+        "infinitive": "become",
+        "simple_past": "became",
+        "past_participle": "become",
+        "translate": "tornar-se",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 3,
+        "infinitive": "begin",
+        "simple_past": "began",
+        "past_participle": "begun",
+        "translate": "começar",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 4,
+        "infinitive": "break",
+        "simple_past": "broke",
+        "past_participle": "broken",
+        "translate": "quebrar",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 5,
+        "infinitive": "bring",
+        "simple_past": "brought",
+        "past_participle": "brought",
+        "translate": "trazer",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 6,
+        "infinitive": "build",
+        "simple_past": "built",
+        "past_participle": "built",
+        "translate": "construir",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 7,
+        "infinitive": "buy",
+        "simple_past": "bought",
+        "past_participle": "bought",
+        "translate": "comprar",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 8,
+        "infinitive": "catch",
+        "simple_past": "caught",
+        "past_participle": "caught",
+        "translate": "pegar",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 9,
+        "infinitive": "choose",
+        "simple_past": "chose",
+        "past_participle": "chosen",
+        "translate": "escolher",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 10,
+        "infinitive": "come",
+        "simple_past": "came",
+        "past_participle": "come",
+        "translate": "vir",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 11,
+        "infinitive": "do",
+        "simple_past": "did",
+        "past_participle": "done",
+        "translate": "fazer",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 12,
+        "infinitive": "drink",
+        "simple_past": "drank",
+        "past_participle": "drunk",
+        "translate": "beber",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 13,
+        "infinitive": "drive",
+        "simple_past": "drove",
+        "past_participle": "driven",
+        "translate": "dirigir",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 14,
+        "infinitive": "eat",
+        "simple_past": "ate",
+        "past_participle": "eaten",
+        "translate": "comer",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 15,
+        "infinitive": "fall",
+        "simple_past": "fell",
+        "past_participle": "fallen",
+        "translate": "cair",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 16,
+        "infinitive": "feel",
+        "simple_past": "felt",
+        "past_participle": "felt",
+        "translate": "sentir",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 17,
+        "infinitive": "find",
+        "simple_past": "found",
+        "past_participle": "found",
+        "translate": "encontrar",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 18,
+        "infinitive": "get",
+        "simple_past": "got",
+        "past_participle": "got/gotten",
+        "translate": "obter / receber",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 19,
+        "infinitive": "give",
+        "simple_past": "gave",
+        "past_participle": "given",
+        "translate": "dar",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 20,
+        "infinitive": "go",
+        "simple_past": "went",
+        "past_participle": "gone",
+        "translate": "ir",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+        {
+        "id": 21,
+        "infinitive": "have",
+        "simple_past": "had",
+        "past_participle": "had",
+        "translate": "ter",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 22,
+        "infinitive": "hear",
+        "simple_past": "heard",
+        "past_participle": "heard",
+        "translate": "ouvir",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 23,
+        "infinitive": "know",
+        "simple_past": "knew",
+        "past_participle": "known",
+        "translate": "saber / conhecer",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 24,
+        "infinitive": "leave",
+        "simple_past": "left",
+        "past_participle": "left",
+        "translate": "deixar / sair",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 25,
+        "infinitive": "lose",
+        "simple_past": "lost",
+        "past_participle": "lost",
+        "translate": "perder",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 26,
+        "infinitive": "make",
+        "simple_past": "made",
+        "past_participle": "made",
+        "translate": "fazer",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 27,
+        "infinitive": "meet",
+        "simple_past": "met",
+        "past_participle": "met",
+        "translate": "encontrar",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 28,
+        "infinitive": "read",
+        "simple_past": "read",
+        "past_participle": "read",
+        "translate": "ler",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 29,
+        "infinitive": "see",
+        "simple_past": "saw",
+        "past_participle": "seen",
+        "translate": "ver",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 30,
+        "infinitive": "take",
+        "simple_past": "took",
+        "past_participle": "taken",
+        "translate": "pegar / levar",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 31,
+        "infinitive": "tell",
+        "simple_past": "told",
+        "past_participle": "told",
+        "translate": "contar / dizer",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 32,
+        "infinitive": "think",
+        "simple_past": "thought",
+        "past_participle": "thought",
+        "translate": "pensar",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 33,
+        "infinitive": "write",
+        "simple_past": "wrote",
+        "past_participle": "written",
+        "translate": "escrever",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    }
+
+]

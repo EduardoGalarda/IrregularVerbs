@@ -1,0 +1,82 @@
+[
+    {
+        "id": 0,
+        "title_infinitivo": "Base Form / Infinitive:",
+        "titlesimple_past": "Simple Past:",
+        "title_past_participle": "Past Participle:",
+        "translate": "Translate",
+        "infinitive": "Infinitive",
+        "simple_past": "Simple Past",
+        "past_participle": "Past Participle",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 1,
+        "infinitive": "be",
+        "simple_past": "was / were",
+        "past_participle": "been",
+        "translate": "ser / estar",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 2,
+        "infinitive": "become",
+        "simple_past": "became",
+        "past_participle": "become",
+        "translate": "tornar-se",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 3,
+        "infinitive": "begin",
+        "simple_past": "began",
+        "past_participle": "begun",
+        "translate": "começar",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 4,
+        "infinitive": "break",
+        "simple_past": "broke",
+        "past_participle": "broken",
+        "translate": "quebrar",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 5,
+        "infinitive": "bring",
+        "simple_past": "brought",
+        "past_participle": "brought",
+        "translate": "trazer",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    },
+
+    {
+        "id": 6,
+        "infinitive": "build",
+        "simple_past": "built",
+        "past_participle": "built",
+        "translate": "construir",
+        "exemple_infinitive": "",
+        "exemple_simple_past": "",
+        "exemple_past_participle": ""
+    }
+
+]
