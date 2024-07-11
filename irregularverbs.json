@@ -12,368 +12,532 @@
         "exemple_simple_past": "",
         "exemple_past_participle": ""
     },
-
     {
         "id": 1,
         "infinitive": "be",
         "simple_past": "was / were",
         "past_participle": "been",
         "translate": "ser / estar",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/biː/",
+        "spoken_infinitive": "bee",
+        "phonetic_simple_past": "/wəz/ /wɜːr/",
+        "spoken_simple_past": "wuhz / wur",
+        "phonetic_past_participle": "/bɪn/",
+        "spoken_past_participle": "bin",
+        "exemple_infinitive": "I want to be a doctor.",
+        "exemple_simple_past": "She was happy.",
+        "exemple_past_participle": "They have been friends."
     },
-
     {
         "id": 2,
         "infinitive": "become",
         "simple_past": "became",
         "past_participle": "become",
         "translate": "tornar-se",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/bɪˈkʌm/",
+        "spoken_infinitive": "bi-kuhm",
+        "phonetic_simple_past": "/bɪˈkeɪm/",
+        "spoken_simple_past": "bi-kaym",
+        "phonetic_past_participle": "/bɪˈkʌm/",
+        "spoken_past_participle": "bi-kuhm",
+        "exemple_infinitive": "He wants to become a lawyer.",
+        "exemple_simple_past": "She became a teacher.",
+        "exemple_past_participle": "They have become experts."
     },
-
     {
         "id": 3,
         "infinitive": "begin",
         "simple_past": "began",
         "past_participle": "begun",
         "translate": "começar",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/bɪˈɡɪn/",
+        "spoken_infinitive": "bi-gin",
+        "phonetic_simple_past": "/bɪˈɡæn/",
+        "spoken_simple_past": "bi-gan",
+        "phonetic_past_participle": "/bɪˈɡʌn/",
+        "spoken_past_participle": "bi-guhn",
+        "exemple_infinitive": "Let's begin the meeting.",
+        "exemple_simple_past": "He began to speak.",
+        "exemple_past_participle": "She has begun her journey."
     },
-
     {
         "id": 4,
         "infinitive": "break",
         "simple_past": "broke",
         "past_participle": "broken",
         "translate": "quebrar",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/breɪk/",
+        "spoken_infinitive": "brayk",
+        "phonetic_simple_past": "/broʊk/",
+        "spoken_simple_past": "brohk",
+        "phonetic_past_participle": "/ˈbroʊkən/",
+        "spoken_past_participle": "broh-kən",
+        "exemple_infinitive": "I don't want to break it.",
+        "exemple_simple_past": "He broke the glass.",
+        "exemple_past_participle": "She has broken her promise."
     },
-
     {
         "id": 5,
         "infinitive": "bring",
         "simple_past": "brought",
         "past_participle": "brought",
         "translate": "trazer",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/brɪŋ/",
+        "spoken_infinitive": "bring",
+        "phonetic_simple_past": "/brɔːt/",
+        "spoken_simple_past": "brawt",
+        "phonetic_past_participle": "/brɔːt/",
+        "spoken_past_participle": "brawt",
+        "exemple_infinitive": "Bring your book.",
+        "exemple_simple_past": "He brought his friend.",
+        "exemple_past_participle": "She has brought cookies."
     },
-
     {
         "id": 6,
         "infinitive": "build",
         "simple_past": "built",
         "past_participle": "built",
         "translate": "construir",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/bɪld/",
+        "spoken_infinitive": "bild",
+        "phonetic_simple_past": "/bɪlt/",
+        "spoken_simple_past": "bilt",
+        "phonetic_past_participle": "/bɪlt/",
+        "spoken_past_participle": "bilt",
+        "exemple_infinitive": "They build houses.",
+        "exemple_simple_past": "He built a shed.",
+        "exemple_past_participle": "She has built a model."
     },
-
     {
         "id": 7,
         "infinitive": "buy",
         "simple_past": "bought",
         "past_participle": "bought",
         "translate": "comprar",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/baɪ/",
+        "spoken_infinitive": "bye",
+        "phonetic_simple_past": "/bɔːt/",
+        "spoken_simple_past": "bawt",
+        "phonetic_past_participle": "/bɔːt/",
+        "spoken_past_participle": "bawt",
+        "exemple_infinitive": "I want to buy it.",
+        "exemple_simple_past": "He bought a car.",
+        "exemple_past_participle": "She has bought a gift."
     },
-
     {
         "id": 8,
         "infinitive": "catch",
         "simple_past": "caught",
         "past_participle": "caught",
         "translate": "pegar",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/kætʃ/",
+        "spoken_infinitive": "katch",
+        "phonetic_simple_past": "/kɔːt/",
+        "spoken_simple_past": "kawt",
+        "phonetic_past_participle": "/kɔːt/",
+        "spoken_past_participle": "kawt",
+        "exemple_infinitive": "Can you catch the ball?",
+        "exemple_simple_past": "He caught the train.",
+        "exemple_past_participle": "She has caught a cold."
     },
-
     {
         "id": 9,
         "infinitive": "choose",
         "simple_past": "chose",
         "past_participle": "chosen",
         "translate": "escolher",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/tʃuːz/",
+        "spoken_infinitive": "chooz",
+        "phonetic_simple_past": "/tʃoʊz/",
+        "spoken_simple_past": "chohz",
+        "phonetic_past_participle": "/ˈtʃoʊzən/",
+        "spoken_past_participle": "choh-zən",
+        "exemple_infinitive": "I choose you.",
+        "exemple_simple_past": "He chose the red one.",
+        "exemple_past_participle": "She has chosen well."
     },
-
     {
         "id": 10,
         "infinitive": "come",
         "simple_past": "came",
         "past_participle": "come",
         "translate": "vir",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/kʌm/",
+        "spoken_infinitive": "kuhm",
+        "phonetic_simple_past": "/keɪm/",
+        "spoken_simple_past": "kaym",
+        "phonetic_past_participle": "/kʌm/",
+        "spoken_past_participle": "kuhm",
+        "exemple_infinitive": "Can you come here?",
+        "exemple_simple_past": "He came early.",
+        "exemple_past_participle": "She has come to visit."
     },
-
     {
         "id": 11,
         "infinitive": "do",
         "simple_past": "did",
         "past_participle": "done",
         "translate": "fazer",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/duː/",
+        "spoken_infinitive": "doo",
+        "phonetic_simple_past": "/dɪd/",
+        "spoken_simple_past": "did",
+        "phonetic_past_participle": "/dʌn/",
+        "spoken_past_participle": "duhn",
+        "exemple_infinitive": "I do my homework.",
+        "exemple_simple_past": "He did the dishes.",
+        "exemple_past_participle": "She has done it."
     },
-
     {
         "id": 12,
         "infinitive": "drink",
         "simple_past": "drank",
         "past_participle": "drunk",
         "translate": "beber",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/drɪŋk/",
+        "spoken_infinitive": "drink",
+        "phonetic_simple_past": "/dræŋk/",
+        "spoken_simple_past": "drank",
+        "phonetic_past_participle": "/drʌŋk/",
+        "spoken_past_participle": "drunk",
+        "exemple_infinitive": "I drink water.",
+        "exemple_simple_past": "He drank juice.",
+        "exemple_past_participle": "She has drunk tea."
     },
-
     {
         "id": 13,
         "infinitive": "drive",
         "simple_past": "drove",
         "past_participle": "driven",
         "translate": "dirigir",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/draɪv/",
+        "spoken_infinitive": "driv",
+        "phonetic_simple_past": "/droʊv/",
+        "spoken_simple_past": "drohv",
+        "phonetic_past_participle": "/ˈdrɪvən/",
+        "spoken_past_participle": "driv-uhn",
+        "exemple_infinitive": "I drive to work.",
+        "exemple_simple_past": "He drove yesterday.",
+        "exemple_past_participle": "She has driven before."
     },
-
     {
         "id": 14,
         "infinitive": "eat",
         "simple_past": "ate",
         "past_participle": "eaten",
         "translate": "comer",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/iːt/",
+        "spoken_infinitive": "eet",
+        "phonetic_simple_past": "/eɪt/",
+        "spoken_simple_past": "ayt",
+        "phonetic_past_participle": "/ˈiːtn/",
+        "spoken_past_participle": "ee-tən",
+        "exemple_infinitive": "I eat breakfast.",
+        "exemple_simple_past": "He ate lunch.",
+        "exemple_past_participle": "She has eaten dinner."
     },
-
     {
         "id": 15,
         "infinitive": "fall",
         "simple_past": "fell",
         "past_participle": "fallen",
         "translate": "cair",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/fɔːl/",
+        "spoken_infinitive": "fawl",
+        "phonetic_simple_past": "/fɛl/",
+        "spoken_simple_past": "fel",
+        "phonetic_past_participle": "/ˈfɔːlən/",
+        "spoken_past_participle": "faw-lən",
+        "exemple_infinitive": "Be careful not to fall.",
+        "exemple_simple_past": "He fell down.",
+        "exemple_past_participle": "She has fallen asleep."
     },
-
     {
         "id": 16,
         "infinitive": "feel",
         "simple_past": "felt",
         "past_participle": "felt",
         "translate": "sentir",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/fiːl/",
+        "spoken_infinitive": "feel",
+        "phonetic_simple_past": "/fɛlt/",
+        "spoken_simple_past": "felt",
+        "phonetic_past_participle": "/fɛlt/",
+        "spoken_past_participle": "felt",
+        "exemple_infinitive": "I feel happy.",
+        "exemple_simple_past": "He felt sad.",
+        "exemple_past_participle": "She has felt better."
     },
-
     {
         "id": 17,
         "infinitive": "find",
         "simple_past": "found",
         "past_participle": "found",
         "translate": "encontrar",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/faɪnd/",
+        "spoken_infinitive": "fynd",
+        "phonetic_simple_past": "/faʊnd/",
+        "spoken_simple_past": "fownd",
+        "phonetic_past_participle": "/faʊnd/",
+        "spoken_past_participle": "fownd",
+        "exemple_infinitive": "I find it interesting.",
+        "exemple_simple_past": "He found his keys.",
+        "exemple_past_participle": "She has found a solution."
     },
-
     {
         "id": 18,
         "infinitive": "get",
         "simple_past": "got",
-        "past_participle": "got/gotten",
+        "past_participle": "got / gotten",
         "translate": "obter / receber",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/ɡɛt/",
+        "spoken_infinitive": "get",
+        "phonetic_simple_past": "/ɡɒt/",
+        "spoken_simple_past": "got",
+        "phonetic_past_participle": "/ɡɒt/ /ˈɡɒtn/",
+        "spoken_past_participle": "got / got-uhn",
+        "exemple_infinitive": "I get up early.",
+        "exemple_simple_past": "He got a gift.",
+        "exemple_past_participle": "She has gotten better."
     },
-
     {
         "id": 19,
         "infinitive": "give",
         "simple_past": "gave",
         "past_participle": "given",
         "translate": "dar",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/ɡɪv/",
+        "spoken_infinitive": "giv",
+        "phonetic_simple_past": "/ɡeɪv/",
+        "spoken_simple_past": "gayv",
+        "phonetic_past_participle": "/ˈɡɪvən/",
+        "spoken_past_participle": "giv-uhn",
+        "exemple_infinitive": "I give my time.",
+        "exemple_simple_past": "He gave a speech.",
+        "exemple_past_participle": "She has given a lot."
     },
-
     {
         "id": 20,
         "infinitive": "go",
         "simple_past": "went",
         "past_participle": "gone",
         "translate": "ir",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/ɡoʊ/",
+        "spoken_infinitive": "goh",
+        "phonetic_simple_past": "/wɛnt/",
+        "spoken_simple_past": "went",
+        "phonetic_past_participle": "/ɡɔːn/",
+        "spoken_past_participle": "gawn",
+        "exemple_infinitive": "I go to school.",
+        "exemple_simple_past": "He went home.",
+        "exemple_past_participle": "She has gone shopping."
     },
-
-        {
+    {
         "id": 21,
         "infinitive": "have",
         "simple_past": "had",
         "past_participle": "had",
         "translate": "ter",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/hæv/",
+        "spoken_infinitive": "hav",
+        "phonetic_simple_past": "/hæd/",
+        "spoken_simple_past": "had",
+        "phonetic_past_participle": "/hæd/",
+        "spoken_past_participle": "had",
+        "exemple_infinitive": "I have a car.",
+        "exemple_simple_past": "He had a cat.",
+        "exemple_past_participle": "She has had many pets."
     },
-
     {
         "id": 22,
         "infinitive": "hear",
         "simple_past": "heard",
         "past_participle": "heard",
         "translate": "ouvir",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/hɪər/",
+        "spoken_infinitive": "heer",
+        "phonetic_simple_past": "/hɜːrd/",
+        "spoken_simple_past": "herd",
+        "phonetic_past_participle": "/hɜːrd/",
+        "spoken_past_participle": "herd",
+        "exemple_infinitive": "Can you hear me?",
+        "exemple_simple_past": "He heard a noise.",
+        "exemple_past_participle": "She has heard the news."
     },
-
     {
         "id": 23,
         "infinitive": "know",
         "simple_past": "knew",
         "past_participle": "known",
         "translate": "saber / conhecer",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/noʊ/",
+        "spoken_infinitive": "noh",
+        "phonetic_simple_past": "/nuː/",
+        "spoken_simple_past": "new",
+        "phonetic_past_participle": "/noʊn/",
+        "spoken_past_participle": "nohn",
+        "exemple_infinitive": "I know the answer.",
+        "exemple_simple_past": "He knew the truth.",
+        "exemple_past_participle": "She has known him for years."
     },
-
     {
         "id": 24,
         "infinitive": "leave",
         "simple_past": "left",
         "past_participle": "left",
         "translate": "deixar / sair",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/liːv/",
+        "spoken_infinitive": "leev",
+        "phonetic_simple_past": "/lɛft/",
+        "spoken_simple_past": "left",
+        "phonetic_past_participle": "/lɛft/",
+        "spoken_past_participle": "left",
+        "exemple_infinitive": "I leave at 5.",
+        "exemple_simple_past": "He left early.",
+        "exemple_past_participle": "She has left already."
     },
-
     {
         "id": 25,
         "infinitive": "lose",
         "simple_past": "lost",
         "past_participle": "lost",
         "translate": "perder",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/luːz/",
+        "spoken_infinitive": "looz",
+        "phonetic_simple_past": "/lɔːst/",
+        "spoken_simple_past": "lawst",
+        "phonetic_past_participle": "/lɔːst/",
+        "spoken_past_participle": "lawst",
+        "exemple_infinitive": "I lose things often.",
+        "exemple_simple_past": "He lost his wallet.",
+        "exemple_past_participle": "She has lost weight."
     },
-
     {
         "id": 26,
         "infinitive": "make",
         "simple_past": "made",
         "past_participle": "made",
         "translate": "fazer",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/meɪk/",
+        "spoken_infinitive": "mayk",
+        "phonetic_simple_past": "/meɪd/",
+        "spoken_simple_past": "mayd",
+        "phonetic_past_participle": "/meɪd/",
+        "spoken_past_participle": "mayd",
+        "exemple_infinitive": "I make coffee.",
+        "exemple_simple_past": "He made breakfast.",
+        "exemple_past_participle": "She has made a cake."
     },
-
     {
         "id": 27,
         "infinitive": "meet",
         "simple_past": "met",
         "past_participle": "met",
         "translate": "encontrar",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/miːt/",
+        "spoken_infinitive": "meet",
+        "phonetic_simple_past": "/mɛt/",
+        "spoken_simple_past": "met",
+        "phonetic_past_participle": "/mɛt/",
+        "spoken_past_participle": "met",
+        "exemple_infinitive": "I meet new people.",
+        "exemple_simple_past": "He met her yesterday.",
+        "exemple_past_participle": "She has met them before."
     },
-
     {
         "id": 28,
         "infinitive": "read",
         "simple_past": "read",
         "past_participle": "read",
         "translate": "ler",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/riːd/",
+        "spoken_infinitive": "reed",
+        "phonetic_simple_past": "/rɛd/",
+        "spoken_simple_past": "red",
+        "phonetic_past_participle": "/rɛd/",
+        "spoken_past_participle": "red",
+        "exemple_infinitive": "I read books.",
+        "exemple_simple_past": "He read a novel.",
+        "exemple_past_participle": "She has read many articles."
     },
-
     {
         "id": 29,
         "infinitive": "see",
         "simple_past": "saw",
         "past_participle": "seen",
         "translate": "ver",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/siː/",
+        "spoken_infinitive": "see",
+        "phonetic_simple_past": "/sɔː/",
+        "spoken_simple_past": "saw",
+        "phonetic_past_participle": "/siːn/",
+        "spoken_past_participle": "seen",
+        "exemple_infinitive": "I see the stars.",
+        "exemple_simple_past": "He saw a bird.",
+        "exemple_past_participle": "She has seen the movie."
     },
-
     {
         "id": 30,
         "infinitive": "take",
         "simple_past": "took",
         "past_participle": "taken",
         "translate": "pegar / levar",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/teɪk/",
+        "spoken_infinitive": "tayk",
+        "phonetic_simple_past": "/tʊk/",
+        "spoken_simple_past": "took",
+        "phonetic_past_participle": "/ˈteɪkən/",
+        "spoken_past_participle": "tayk-uhn",
+        "exemple_infinitive": "I take the bus.",
+        "exemple_simple_past": "He took a picture.",
+        "exemple_past_participle": "She has taken notes."
     },
-
     {
         "id": 31,
         "infinitive": "tell",
         "simple_past": "told",
         "past_participle": "told",
         "translate": "contar / dizer",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/tɛl/",
+        "spoken_infinitive": "tel",
+        "phonetic_simple_past": "/toʊld/",
+        "spoken_simple_past": "tohld",
+        "phonetic_past_participle": "/toʊld/",
+        "spoken_past_participle": "tohld",
+        "exemple_infinitive": "I tell the truth.",
+        "exemple_simple_past": "He told a story.",
+        "exemple_past_participle": "She has told the secret."
     },
-
     {
         "id": 32,
         "infinitive": "think",
         "simple_past": "thought",
         "past_participle": "thought",
         "translate": "pensar",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/θɪŋk/",
+        "spoken_infinitive": "think",
+        "phonetic_simple_past": "/θɔːt/",
+        "spoken_simple_past": "thawt",
+        "phonetic_past_participle": "/θɔːt/",
+        "spoken_past_participle": "thawt",
+        "exemple_infinitive": "I think a lot.",
+        "exemple_simple_past": "He thought deeply.",
+        "exemple_past_participle": "She has thought it through."
     },
-
     {
         "id": 33,
         "infinitive": "write",
         "simple_past": "wrote",
         "past_participle": "written",
         "translate": "escrever",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "phonetic_infinitive": "/raɪt/",
+        "spoken_infinitive": "right",
+        "phonetic_simple_past": "/roʊt/",
+        "spoken_simple_past": "roht",
+        "phonetic_past_participle": "/ˈrɪtn/",
+        "spoken_past_participle": "rit-n",
+        "exemple_infinitive": "I write letters.",
+        "exemple_simple_past": "He wrote an email.",
+        "exemple_past_participle": "She has written a book."
     }
-
 ]
