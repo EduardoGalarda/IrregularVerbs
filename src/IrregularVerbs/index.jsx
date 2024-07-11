@@ -1,5 +1,5 @@
 import { useState } from "react";
-import db_Verbs from "../../irregularverbs_test.json";
+import db_Verbs from "../../irregularverbs.json";
 import Verb from "../components/Verb";
 
 const IrregularVerbs = () => {
