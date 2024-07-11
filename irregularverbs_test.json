@@ -1,82 +1,67 @@
 [
     {
-        "id": 0,
-        "title_infinitivo": "Base Form / Infinitive:",
-        "titlesimple_past": "Simple Past:",
-        "title_past_participle": "Past Participle:",
-        "translate": "Translate",
-        "infinitive": "Infinitive",
-        "simple_past": "Simple Past",
-        "past_participle": "Past Participle",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "id": 73,
+        "infinitive": "fly",
+        "simple_past": "flew",
+        "past_participle": "flown",
+        "translate": "voar",
+        "pronunciation_infinitive": "flai",
+        "pronunciation_simple_past": "flu",
+        "pronunciation_past_participle": "floun",
+        "exemple_infinitive": "Birds fly in the sky.",
+        "exemple_simple_past": "He flew to New York.",
+        "exemple_past_participle": "She has flown many times."
     },
-
     {
-        "id": 1,
-        "infinitive": "be",
-        "simple_past": "was / were",
-        "past_participle": "been",
-        "translate": "ser / estar",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "id": 74,
+        "infinitive": "freeze",
+        "simple_past": "froze",
+        "past_participle": "frozen",
+        "translate": "congelar",
+        "pronunciation_infinitive": "friz",
+        "pronunciation_simple_past": "frouz",
+        "pronunciation_past_participle": "frou-zn",
+        "exemple_infinitive": "Water freezes at 0°C.",
+        "exemple_simple_past": "The lake froze last winter.",
+        "exemple_past_participle": "The food has frozen solid."
     },
-
     {
-        "id": 2,
-        "infinitive": "become",
-        "simple_past": "became",
-        "past_participle": "become",
-        "translate": "tornar-se",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "id": 75,
+        "infinitive": "hide",
+        "simple_past": "hid",
+        "past_participle": "hidden",
+        "translate": "esconder",
+        "pronunciation_infinitive": "haid",
+        "pronunciation_simple_past": "hid",
+        "pronunciation_past_participle": "hid-n",
+        "exemple_infinitive": "You can't hide from me.",
+        "exemple_simple_past": "He hid behind the tree.",
+        "exemple_past_participle": "She has hidden the gift."
     },
-
     {
-        "id": 3,
-        "infinitive": "begin",
-        "simple_past": "began",
-        "past_participle": "begun",
-        "translate": "começar",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "id": 76,
+        "infinitive": "shake",
+        "simple_past": "shook",
+        "past_participle": "shaken",
+        "translate": "sacudir",
+        "pronunciation_infinitive": "sheik",
+        "pronunciation_simple_past": "shuk",
+        "pronunciation_past_participle": "shei-kn",
+        "exemple_infinitive": "Shake the bottle.",
+        "exemple_simple_past": "He shook his hand.",
+        "exemple_past_participle": "She has shaken the tree."
     },
-
     {
-        "id": 4,
-        "infinitive": "break",
-        "simple_past": "broke",
-        "past_participle": "broken",
-        "translate": "quebrar",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
-    },
-
-    {
-        "id": 5,
-        "infinitive": "bring",
-        "simple_past": "brought",
-        "past_participle": "brought",
-        "translate": "trazer",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
-    },
-
-    {
-        "id": 6,
-        "infinitive": "build",
-        "simple_past": "built",
-        "past_participle": "built",
-        "translate": "construir",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
+        "id": 77,
+        "infinitive": "swing",
+        "simple_past": "swung",
+        "past_participle": "swung",
+        "translate": "balançar",
+        "pronunciation_infinitive": "swing",
+        "pronunciation_simple_past": "swang",
+        "pronunciation_past_participle": "swang",
+        "exemple_infinitive": "Children love to swing.",
+        "exemple_simple_past": "He swung the bat.",
+        "exemple_past_participle": "She has swung on the swing."
     }
-
 ]
