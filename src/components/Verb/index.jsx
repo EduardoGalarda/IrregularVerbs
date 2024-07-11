@@ -23,9 +23,12 @@ const Verb = ({ verb, showDetails, onToggle }) => {
         
         <div>
           {/* <p><strong>Tradução:</strong> {verb.translate}</p> */}
-          <p><strong>Pronuncia (infinitive):</strong> {verb.pronunciation_infinitive}</p>
-          <p><strong>Pronuncia (simple past):</strong> {verb.pronunciation_simple_past}</p>
-          <p><strong>Pronuncia (past participle):</strong> {verb.pronunciation_past_participle}</p>
+          <p><strong>Pronuncia (infinitive):</strong> {verb.phonetic_infinitive}</p>
+          <p><strong>Pronuncia (simple past):</strong> {verb.phonetic_simple_past}</p>
+          <p><strong>Pronuncia (past participle):</strong> {verb.phonetic_past_participle}</p>
+          <p><strong>Pronuncia (infinitive):</strong> {verb.spoken_infinitive}</p>
+          <p><strong>Pronuncia (simple past):</strong> {verb.spoken_simple_past}</p>
+          <p><strong>Pronuncia (past participle):</strong> {verb.spoken_past_participle}</p>
           {/* <p><strong>Simple Past:</strong> {verb.simple_past}</p> */}
           {/* <p><strong>Past Participle:</strong> {verb.past_participle}</p> */}
           <p><strong>Exemplo (infinitive):</strong> {verb.exemple_infinitive}</p>
