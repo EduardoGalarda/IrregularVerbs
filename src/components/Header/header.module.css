@@ -1,6 +1,13 @@
 .container {
-  margin-bottom: 30px;
+  margin-bottom: 230px;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  background: #242424;
+  z-index: 100;
 }
+
 
 .header {
   display: flex;
