@@ -1,17 +1,5 @@
 [
-    {
-        "id": 0,
-        "title_infinitivo": "Base Form / Infinitive:",
-        "titlesimple_past": "Simple Past:",
-        "title_past_participle": "Past Participle:",
-        "translate": "Translate",
-        "infinitive": "Infinitive",
-        "simple_past": "Simple Past",
-        "past_participle": "Past Participle",
-        "exemple_infinitive": "",
-        "exemple_simple_past": "",
-        "exemple_past_participle": ""
-    },
+   
     {
         "id": 1,
         "infinitive": "be",

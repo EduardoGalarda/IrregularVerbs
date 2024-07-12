@@ -1,17 +1,15 @@
-
-import './App.css'
-import IrregularVerbs from './IrregularVerbs/index'
+import "./App.css";
+import IrregularVerbs from "./IrregularVerbs/index";
+import Header from "./components/Header";
 
 function App() {
-  
-
   return (
     <>
-      <h1>Irregular Verbs</h1>
+      <Header />
+
       <IrregularVerbs></IrregularVerbs>
-      
     </>
-  )
+  );
 }
 
-export default App
+export default App;

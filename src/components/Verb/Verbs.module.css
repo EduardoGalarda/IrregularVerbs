@@ -16,7 +16,6 @@
     width: 100%;
     list-style: none;
     padding: 5px 0;
-    /* border-bottom: 1px solid #ddd; */
 }
 
 .cell {
@@ -27,6 +26,28 @@
     text-align: center;
     box-sizing: border-box;
 }
+
+.details {
+    width: 720px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+}
+
+.details .cell {
+    margin: 3px;
+    border: 1px solid #ecd508;
+}
+
+.button {
+    width: 120px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: transparent;
+    margin: 5px;
+}
+
 
 @media (max-width: 992px) {
 

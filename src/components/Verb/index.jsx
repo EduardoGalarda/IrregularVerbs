@@ -15,25 +15,38 @@ const Verb = ({ verb, showDetails, onToggle }) => {
                     </li>
                 
             </ul>
-            <button onClick={onToggle}> {showDetails ? "Fechar" : "Mostrar Detalhes"} </button>
+            <button className={styles.button} onClick={onToggle}> {showDetails ? "Fechar" : "Mostrar Detalhes"} </button>
         </div>
         
       {/* <h3>{verb.infinitive}</h3> */}
       {showDetails && (
         
-        <div>
-          {/* <p><strong>Tradução:</strong> {verb.translate}</p> */}
-          <p><strong>Pronuncia (infinitive):</strong> {verb.phonetic_infinitive}</p>
-          <p><strong>Pronuncia (simple past):</strong> {verb.phonetic_simple_past}</p>
-          <p><strong>Pronuncia (past participle):</strong> {verb.phonetic_past_participle}</p>
-          <p><strong>Pronuncia (infinitive):</strong> {verb.spoken_infinitive}</p>
-          <p><strong>Pronuncia (simple past):</strong> {verb.spoken_simple_past}</p>
-          <p><strong>Pronuncia (past participle):</strong> {verb.spoken_past_participle}</p>
-          {/* <p><strong>Simple Past:</strong> {verb.simple_past}</p> */}
-          {/* <p><strong>Past Participle:</strong> {verb.past_participle}</p> */}
-          <p><strong>Exemplo (infinitive):</strong> {verb.exemple_infinitive}</p>
-          <p><strong>Exemplo (simple past):</strong> {verb.exemple_simple_past}</p>
-          <p><strong>Exemplo (past participle):</strong> {verb.exemple_past_participle}</p>
+        <div className={styles.details}>
+          <br/>
+          <p className={styles.cell}><strong>Pronúncia: falada e fonética</strong></p>
+          <div className={styles.container}>
+            <p className={styles.cell}> {verb.infinitive}</p>
+            <p className={styles.cell}> {verb.simple_past}</p>
+            <p className={styles.cell}> {verb.past_participle}</p>
+          </div>
+          <div className={styles.container}>
+            <p className={styles.cell}> {verb.spoken_infinitive}</p>
+            <p className={styles.cell}> {verb.spoken_simple_past}</p>
+            <p className={styles.cell}> {verb.spoken_past_participle}</p>
+          </div>
+          <div className={styles.container}>
+            <p className={styles.cell}> {verb.phonetic_infinitive}</p>
+            <p className={styles.cell}> {verb.phonetic_simple_past}</p>
+            <p className={styles.cell}> {verb.phonetic_past_participle}</p>
+          </div>
+          <br/>
+          <p className={styles.cell}><strong>Exemplo:</strong></p>
+          <div>
+            <p className={styles.cell}><strong>Infinitive:</strong> {verb.exemple_infinitive}</p>
+            <p className={styles.cell}><strong>Simple Past:</strong> {verb.exemple_simple_past}</p>
+            <p className={styles.cell}><strong>Past participle:</strong> {verb.exemple_past_participle}</p>
+          </div>
+          <br/>
         </div>
       )}
     </div>
