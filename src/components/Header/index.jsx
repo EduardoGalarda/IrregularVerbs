@@ -1,4 +1,5 @@
 import styles from './header.module.css'
+import { FaCircleArrowDown } from "react-icons/fa6";
 
 
 
@@ -14,7 +15,8 @@ const Header = () => {
           <div className={styles.cell}>Translate</div>
         </div>
         <div className={styles.headerDetail}>
-          <div className={styles.cell}>Detalhes</div>
+          <div className={styles.cellIcon}><FaCircleArrowDown /></div>
+          <div className={styles.cellText}> Detalhes </div>
         </div>
       </div>
     </div>

@@ -1,10 +1,11 @@
 import styles from './Verbs.module.css'
 import { GrEdit, GrPlay } from "react-icons/gr";
+import { FaCircleArrowDown, FaCircleArrowUp } from "react-icons/fa6";
 
 const Verb = ({ verb, showDetails, onToggle }) => {
   return (
 
-    <div>
+    <>
       <div className={styles.container}>
         <ul className={styles.table}>                
           <li key={verb.id} className={styles.row}>
@@ -14,7 +15,7 @@ const Verb = ({ verb, showDetails, onToggle }) => {
             <div className={styles.cell}>{verb.translate}</div>
           </li>                
         </ul>
-        <button className={styles.button} onClick={onToggle}> {showDetails ? "Fechar" : "Mostrar Detalhes"} </button>
+        <button className={styles.button} onClick={onToggle}> {showDetails ? <FaCircleArrowDown /> : <FaCircleArrowUp /> } </button>
       </div>
         
       {showDetails && (
@@ -91,7 +92,7 @@ const Verb = ({ verb, showDetails, onToggle }) => {
         <br/>
       </div>
       )}
-    </div>
+    </>
   );
 };
 
