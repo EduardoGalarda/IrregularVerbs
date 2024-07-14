@@ -10,4 +10,4 @@ Currently, two official plugins are available:
 atualizado em 13 de julho de 2024
 
 ## next step
-implementação das funcionalidades dos botões de reprodução de som e edição.
+implementação das funcionalidades dos botões de reprodução e edição.
