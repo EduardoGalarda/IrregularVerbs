@@ -1,67 +1,49 @@
-.container {
+.header {
   position: fixed;
   left: 0;
   right: 0;
   top: 0;
-  background: #272eb0;
+  background: #2421b4;
   text-align: center;
-  padding: 10px 5px;
+  padding: 20px 0 5px 0;
   z-index: 100;
 }
 
-.header {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding-top: 15px;
-}
-
-.headerVerb {
-  display: flex;
-  align-items: center;
+.container {
   width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 10px 5px;
 }
 
-.cell,
-.cellIcon {
+.table {
+  padding: 0;
+  margin: 0;
+  width: 95%;
+}
+
+.row {
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+
+.cell {
   flex: 1;
   font-size: 1rem;
   text-align: center;
   align-content: center;
-  border: 1px solid #ddd;
+  border: 1px solid #b3b8c5;
   border-radius: 4px;
-  height: 50px;
-  margin: 2px;
+  /* height: 50px; */
+  margin: 3px;
   padding: 4px;
 }
 
-.cellText {
-  display: none;
-  flex: 1;
-  font-size: 1rem;
-  text-align: center;
-  border: 1px solid #ddd;
+.button {
+  border: 1px solid #b3b8c5;
   border-radius: 4px;
-  height: auto;
+  background-color: #b3b8c5;
   margin: 5px;
-  padding: 10px;
-}
-
-@media (min-width: 992px) {
-  .cell {
-    flex: 1;
-    font-size: 1rem;
-    text-align: center;
-    height: auto;
-    margin: 5px;
-    padding: 10px;
-  }
-
-  .cellIcon {
-    display: none;
-  }
-
-  .cellText {
-    display: block;
-  }
+  color: #000;
 }

@@ -1,25 +1,27 @@
-import styles from './Verbs.module.css'
+import styles from './details.module.css'
 import { GrEdit, GrPlay } from "react-icons/gr";
-import { FaCircleArrowDown, FaCircleArrowUp } from "react-icons/fa6";
 
-const Verb = ({ verb, showDetails, onToggle }) => {
-  return (
+const Details = () => {
 
-    <>
-      <div className={styles.container}>
-        <ul className={styles.table}>                
-          <li key={verb.id} className={styles.row}>
-            <div className={styles.cell}>{verb.infinitive}</div>
-            <div className={styles.cell}>{verb.simple_past}</div>
-            <div className={styles.cell}>{verb.past_participle}</div>
-            <div className={styles.cell}>{verb.translate}</div>
-          </li>                
-        </ul>
-        <button className={styles.button} onClick={onToggle}> {showDetails ? <FaCircleArrowUp /> : <FaCircleArrowDown /> } </button>
-      </div>
-        
-      {showDetails && (
-        
+    const verb = {
+        "id": 1,
+        "infinitive": "be",
+        "simple_past": "was / were",
+        "past_participle": "been",
+        "translate": "ser / estar",
+        "phonetic_infinitive": "/biː/",
+        "spoken_infinitive": "bee",
+        "phonetic_simple_past": "/wəz/ /wɜːr/",
+        "spoken_simple_past": "wuhz / wur",
+        "phonetic_past_participle": "/bɪn/",
+        "spoken_past_participle": "bin",
+        "exemple_infinitive": "I want to be a doctor.",
+        "exemple_simple_past": "She was happy.",
+        "exemple_past_participle": "They have been friends."
+    };
+    
+
+    return(
         <div className={styles.details}>
         <p className={styles.detailsTitle}><strong>Pronúncia: falada e fonética</strong> </p>
         <div className={styles.container}>
@@ -93,9 +95,7 @@ const Verb = ({ verb, showDetails, onToggle }) => {
           
         <br/>
       </div>
-      )}
-    </>
-  );
-};
+    )
+}
 
-export default Verb;
+export default Details
